@@ -47,6 +47,7 @@ ClassicEditor.defaultConfig = {
 			'|',
 			'bold',
 			'italic',
+			'underline',
 			'|',
 			'bulletedList',
 			'numberedList',
